@@ -1,4 +1,12 @@
-# template repo for [snack.expo.io](https://expo.io/snacks/) import repository - [https://github.com/tom2kota/expo-repo-zip](https://github.com/tom2kota/expo-repo-zip) - { 0.55Gb }
+#### repo for [snack.expo.io](https://expo.io/snacks/) import repository
+
+
+Most issues with project imports are caused by one of three issues:
+
+    the repo is not a valid Expo project
+    the repo is a valid expo project but uses a version of the Expo SDK that is no longer supported
+    the repo includes a dependency in package.json that cannot be successfully bundled
+
 
 
 # For localhost usage:
